@@ -1,0 +1,5 @@
+
+gabriel     200
+robert     100
+GABRIEL     4000
+jorge     200
